@@ -220,7 +220,7 @@ td.num,th.num{text-align:right}
 /* ---------- steps ---------- */
 .steps{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
 .step{display:flex;gap:26px;align-items:center;padding:30px}
-.step span{font-size:44px;font-weight:700;letter-spacing:-.03em;color:var(--sun);min-width:86px;font-variant-numeric:tabular-nums}
+.step span{font-size:40px;font-weight:700;letter-spacing:-.03em;color:var(--sun);min-width:118px;font-variant-numeric:tabular-nums}
 .step p{font-size:21px;color:var(--muted)}
 
 footer{text-align:center;color:var(--muted);font-size:17px;padding:30px 20px 50px}
